@@ -75,8 +75,9 @@ body{
     width: 250px;
     height: 250px;
     margin-top: 1rem;
+    border-radius: 10px;
 }
-.div_exib_prod button{
+.div_exib_prod a{
     width: 50%;
     margin-top: 1rem;
     margin-bottom: 1rem;
