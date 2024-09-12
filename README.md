@@ -8,7 +8,7 @@
 
 ## Home 1º Modelo:
 
-![Imagem Home no Celular Samsung Ultra 20](img/Home-WebSite(Samsung%20Galaxy%20S20%20Ultra).jpg)
+<img width="50%" src="img/Home-WebSite(Samsung Galaxy S20 Ultra).jpg"></img>
 
 <br><br>
 
@@ -21,9 +21,9 @@
  * modificação do rodapé 
  <br><br>
 
-![Imagem Home no Celular Samsung Ultra 20](img/Home-WebSite%202(Samsung%20Galaxy%20S20%20Ultra).jpg)
+<img width="50%" src="img/Home-WebSite 2(Samsung Galaxy S20 Ultra).jpg"></img>
 
 
 ## Produtos 1º Modelo:
 
-![Imagem Produto no Celular Samsung Ultra 20](img/page_produtos.html(Samsung%20Galaxy%20S20%20Ultra).png)
+<img width="50%" src="img/page_produtos.html(Samsung Galaxy S20 Ultra).png"></img>
