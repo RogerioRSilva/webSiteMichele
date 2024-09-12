@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    background-color: rgb(46, 46, 46);
+}
+
+@font-face {
+    font-family: "watermin";
+    src: url("../font/WatermintScript.woff");
+}
+
+/* ******** Barra Navegação ********* */
+
+.linklogo img{
+    width: 50px;
+    height: 50px;
+    margin-left: 1rem;
+}
+
+/* ************ DIV PRODUTOS ********* */
+
+.exibicao_prod{
+    background-color: rgb(46, 46, 46);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding: 1rem;
+
+}
+
+.titulo{
+    font-family: watermin;
+    font-size: 50px;
+    color: gold;
+    text-align: center;
+    
+}
+
+.conteinerTitulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(46, 46, 46);
+    margin-top: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.conteinerTitulo hr{
+    width: 95%;
+    border: 1px solid gold;
+}
+
+.conteinerTitulo h3{
+    font-size: 30px;
+    color: gold;
+}
+
+.conteinerTitulo img{
+    width: 100px;
+    height: 100px;
+}
+
+.card_prod{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    border-radius: 10px;
+    margin-bottom: 1.5rem;
+}
+
+.img_prod{
+    width: 80%;
+    height: 200px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-bottom: 1rem;
+}
+/*Dar um zoom na imagem ao apassar o mouse por cima*/
+.img_prod:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+    margin-bottom: 1rem;
+}
+
+.valor{
+    font-size: 35px;
+    color: red;
+    font-family: watermin;
+    line-height: 10px;
+}
+
+.card_prod button{
+    width: 50%;
+    background-color: gold;
+    color: black;
+    font-size: 20px;
+    font-family: watermin;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem;
+    margin-top: 1rem;
+}
+
+/* ************ RODAPÉ ********* */
+
+.rodape{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(46, 46, 46);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.rodape img{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.rodape hr{
+    width: 95%;
+    border: 1px solid gold;
+}
+
+.rodape h3{
+    font-family: watermin;
+    color : gold;
+}
+
+.rodape p{
+    color: white;
+    font-size: 18px;
+}
