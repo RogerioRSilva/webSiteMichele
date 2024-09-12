@@ -6,9 +6,16 @@
 
 ***
 
-## Home 1º Modelo:
+## Home 2º Modelo:
 
-![Imagem Home no Celular Samsung Ultra 20](img/Home-WebSite(Samsung%20Galaxy%20S20%20Ultra).jpg)
+**Atualizações:**
+ * Feito arredondamento nas imagens
+ * Substituição do **button** por **link**
+ * Apontamento do link para produtos
+ * modificação do rodapé 
+ <br><br>
+
+![Imagem Home no Celular Samsung Ultra 20](img/Home-WebSite%202(Samsung%20Galaxy%20S20%20Ultra).jpg)
 
 
 ## Produtos 1º Modelo:
